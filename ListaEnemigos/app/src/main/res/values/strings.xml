@@ -1,0 +1,19 @@
+<resources>
+    <!-- Nombre de la aplicacion -->
+    <string name="app_name">ListEnemy</string>
+
+    <!-- Elementos menu lateral -->
+    <string-array name="opciones">
+        <item>Top 5</item>
+        <item>Añadir nuevo enemigo</item>
+        <item>ver todos los enemigos</item>
+    </string-array>
+
+    <!-- Menu lateral -->
+    <string name="abrirMenu">Abrir Menú</string>
+    <string name="cerrarMenu">Cerrar Menú</string>
+
+    <string name="tituloLista">Top 5</string>
+    <string name="subtituloLista">¡Tus cinco enemigos mas odiados!</string>
+
+</resources>
